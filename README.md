@@ -4,5 +4,4 @@
 
 - 🔭 I’m currently working on finding a job.
 - 🌱 I’m currently learning with HyperionDev.
-- 📫 How to reach me: [LinkedIn] ("https://www.linkedin.com/in/richard-hughes0101010101/")
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/richard-hughes0101010101/)
