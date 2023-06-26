@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="dddd" src="https://qph.cf2.quoracdn.net/main-qimg-12d39285bbfeeae9f38332f1c06b3ba6-lq">
+</picture>
+
 - 🔭 I’m currently working...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
